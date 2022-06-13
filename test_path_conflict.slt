@@ -1,0 +1,24 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "test_path_conflict_task",
+    "note": "",
+    "parameters": {
+        "enabled": false,
+        "job_type": "standard",
+        "llfeed_token": "xh17QtkazhAC7FdlrbixOs0tpO90aK0s",
+        "pipeline_parameters": {},
+        "pipeline_path": "test_path_conflict_pipeline",
+        "snaplex_path": "test_path_conflict"
+    },
+    "schedule": {
+        "start_date": "2022-01-26",
+        "start_time": "16:26:14",
+        "time_zone": "US/Pacific"
+    },
+    "trigger": {
+        "start_date": "2022-01-26",
+        "start_time": "16:26:14",
+        "time_zone": "US/Pacific"
+    },
+    "trigger_type": "ScheduleTrigger"
+}
